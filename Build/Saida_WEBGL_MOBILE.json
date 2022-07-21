@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SAIDA_WEBGL",
+"productVersion": "0.1",
+"dataUrl": "Saida_WEBGL_MOBILE.data.unityweb",
+"wasmCodeUrl": "Saida_WEBGL_MOBILE.wasm.code.unityweb",
+"wasmFrameworkUrl": "Saida_WEBGL_MOBILE.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
